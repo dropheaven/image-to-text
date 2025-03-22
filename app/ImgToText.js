@@ -84,7 +84,7 @@ export default function ImageToText() {
   return (
     <div className="max-w-lg mx-auto p-6 bg-white shadow-lg rounded-lg">
       <h2 className="text-2xl font-semibold text-gray-800 mb-4">
-        Image to Text Extractor
+        Image to Text
       </h2>
 
       {/* File Upload */}
